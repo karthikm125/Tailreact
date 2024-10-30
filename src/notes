@@ -1,0 +1,5 @@
+<BrowserRouter>
+    <Routes>
+    <Route path='/'element={<New/>}></Route>
+    <Route path='/Task'element={<Work1/>}></Route>
+    </Routes></BrowserRouter>
